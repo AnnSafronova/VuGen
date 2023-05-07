@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=Sydney&departDate=05%2F09%2F2023&arrive=Seattle&returnDate=05%2F27%2F"
+"2023&numPassengers=1&seatPref=Window&seatPref=First&findFlights.x=55&findFlights.y=11&.cgifiel"
+"ds=roundtrip&.cgifields=seatPref&.cgifields=seatPref"

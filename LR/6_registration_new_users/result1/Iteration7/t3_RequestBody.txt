@@ -1,0 +1,2 @@
+"username=user6&password=password6&passwordConfirm=password6&firstName=Name6&lastName=Lenin&add"
+"ress1=Moskow%2C+Green&address2=&register.x=56&register.y=3"

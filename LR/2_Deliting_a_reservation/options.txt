@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\temp\Web Tours\Scripts\LR\LR\Deliting_a_reservation
+-ID:\temp\LoadRunner\include
+-ed:\temp\web tours\scripts\lr\lr\deliting_a_reservation\\logfile.log
+d:\temp\web tours\scripts\lr\lr\deliting_a_reservation\\combined_Deliting_a_reservation.c
+d:\temp\web tours\scripts\lr\lr\deliting_a_reservation\\pre_cci.c

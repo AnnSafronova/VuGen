@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\temp\Web Tours\Scripts\LR\LR\preparation\registration_new_users
+-ID:\temp\LoadRunner\include
+-ed:\temp\web tours\scripts\lr\lr\preparation\registration_new_users\\logfile.log
+d:\temp\web tours\scripts\lr\lr\preparation\registration_new_users\\combined_registration_new_users.c
+d:\temp\web tours\scripts\lr\lr\preparation\registration_new_users\\pre_cci.c

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\temp\Web Tours\Scripts\LR\LR\Buying_a_ticket_without_viewing_reservation
+-ID:\temp\LoadRunner\include
+-ed:\temp\web tours\scripts\lr\lr\buying_a_ticket_without_viewing_reservation\\logfile.log
+d:\temp\web tours\scripts\lr\lr\buying_a_ticket_without_viewing_reservation\\combined_Buying_a_ticket_without_viewing_reservation.c
+d:\temp\web tours\scripts\lr\lr\buying_a_ticket_without_viewing_reservation\\pre_cci.c

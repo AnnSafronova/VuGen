@@ -1,0 +1,41 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1683468228550
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Url: sign up now",
+                "infFile": "t2.inf",
+                "time": 1683468228717
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t3.inf",
+                "time": 1683468228888
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "sing_up_now",
+                "rawStartTime": 1683468228552,
+                "rawEndTime": 1683468228723,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01724982261657715
+            },
+            {
+                "transactionName": "custom_profile",
+                "rawStartTime": 1683468228739,
+                "rawEndTime": 1683468228894,
+                "thinkTime": 0.0,
+                "wastedTime": 0.016382694244384767
+            }
+        ]
+    }
+]

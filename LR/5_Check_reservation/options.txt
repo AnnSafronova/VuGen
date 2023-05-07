@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\temp\Web Tours\Scripts\LR\LR\Check_reservation
+-ID:\temp\LoadRunner\include
+-ed:\temp\web tours\scripts\lr\lr\check_reservation\\logfile.log
+d:\temp\web tours\scripts\lr\lr\check_reservation\\combined_Check_reservation.c
+d:\temp\web tours\scripts\lr\lr\check_reservation\\pre_cci.c
